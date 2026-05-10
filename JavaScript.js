@@ -2,7 +2,7 @@
 const userData = {
     name: 'Adriano Curtis',
     initial: 'Ac',
-    balance: 63755.00,
+    balance: 66645.00,
     email: 'adriano.curtis@example.com',
     income: 5000.00,
     expense: 1300.00,
